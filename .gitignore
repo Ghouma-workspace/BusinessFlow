@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*/__pycache__/
+**/__pycache__/
+
+# Virtual environments
+.venv/
+
+# IDE
+.vscode/
+
+# MCP Server
+mcp_server/build/
+
+# Environment
+.env
+
+# Data (user-provided / generated)
+workspace/*
+
+# Other
+1.2.1
